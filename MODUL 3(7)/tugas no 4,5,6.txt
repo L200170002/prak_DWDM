@@ -1,0 +1,7 @@
+4. jumlah atribut yang bertipe binomial : 4 (Gender, Asal_Sekolah,Asisten, Lama_Studi)
+			       polynomial : 1(Jurusan_SMA)
+5. jumlah atribut bertipe real : 1 (Rerata_SKS)
+6. nilai maximum :23
+	 Minimum :16
+	 Mean    :18.95
+	 StdDev  :1.669384
